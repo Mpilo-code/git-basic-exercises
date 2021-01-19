@@ -1,0 +1,4 @@
+    1  git branch 
+    2  git checkout history
+    3  git branch
+    4  history > history.txt
